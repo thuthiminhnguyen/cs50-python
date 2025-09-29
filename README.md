@@ -7,7 +7,6 @@ Video Demo:  [here](https://youtu.be/ggZyU5vK0io)
 ## Table of contents
 * [General Information](#general_info)
 * [Description](#description)
-* [Video Demo](#video-demo)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Acknowledgements](#acknowledgements)
@@ -43,8 +42,6 @@ This final project includes 2 main files:
 * `test_is_valid_date_format`
 * `test_check_valid_start_end_date`
 * `test_check_symbol_existence`
-
-## Video Demo:  <URL HERE>
 
 ## Installation:
 You need to install the following packages to run this program:
