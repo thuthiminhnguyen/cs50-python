@@ -1,0 +1,3 @@
+pytest==8.2.2
+yfinance==0.2.40
+pyportfolioopt==1.5.5
